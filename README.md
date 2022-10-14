@@ -10,9 +10,9 @@ This is a great tutorial and starting point to learning how to use moveit2 in a 
 ## Running This Tutorial
 
 First time users?
-- Clone Moveit2 Tutorial Repository [(Github link)](https://github.com/azalutsky/MoveIt2Docker)
+- Clone Moveit2 Tutorial Repository [(Github link)](https://github.com/ebots-inc/MoveIt2Docker)
 ```
->> git clone https://github.com/azalutsky/MoveIt2Docker.git
+>> git clone https://github.com/ebots-inc/MoveIt2Docker.git
 ```
 ...or if you prefer to clone with ssh...
 ```
